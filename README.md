@@ -3,7 +3,8 @@ Power BI dashboard analyzing sales and revenue performance with key KPIs, insigh
 
 
 # Project Overview
-This project provides an analytical Power BI dashboard designed to evaluate revenue performance across sales representatives, product categories, customer segments, regions, and yearly trends. The dashboard visualizes key business metrics and highlights insights that support strategic decision making.
+- This project provides an analytical Power BI dashboard designed to evaluate revenue performance across sales representatives, product categories, customer segments, regions, and yearly trends. 
+- The dashboard visualizes key business metrics and highlights insights that support strategic decision making.
 
 
 # Project Objectives
